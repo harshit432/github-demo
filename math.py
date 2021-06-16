@@ -13,5 +13,6 @@ def divide(x,y):
 	return DIVIDE_BY_ZERO_ERROR
     else
 	return x/y
+#square implementation
 def square()
 	pass
